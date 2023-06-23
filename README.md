@@ -36,9 +36,9 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 * El resultado debe ser mostrado en la pantalla.
 
 Puedes observar el modelo Figma del challenge [aquí.](https://www.figma.com/file/trP3p5nEh7XUyB3n2bomjP/Alura-Challenge---Desaf%C3%ADo-1---L%C3%B3gica?type=design&node-id=0-1&mode=design&t=8NULRpUFCJzrYcFN-0)
+
 Para este proyecto añadí mi toque personal como lo es mi logo personal y la paleta de colores de mi sitio web personal.
 
-[Demo del sitio](https://rositaa-as.github.io/Encriptador_de_texto/)
 
 ## Capturas de pantalla:
 
@@ -62,4 +62,8 @@ Esta página web fue creada con:
 
 * HTML
 * CSS
-* JavaScript 
+* JavaScript
+
+##  Link a Demo
+Aquí puedes visualizar mi proyecto terminado: [Encriptador de texto](https://rositaa-as.github.io/Encriptador_de_texto/)
+
